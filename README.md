@@ -1,3 +1,9 @@
+### Install [Npgsql Entity Framework Core provider for PostgreSQL](https://github.com/npgsql/efcore.pg) package
+
+```
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+```
+
 ### Set the connection string
 
 Example connection string
